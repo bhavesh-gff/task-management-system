@@ -1,3 +1,32 @@
 task-management-system
 
-Task Management is a system or application used to plan, organize, track, and complete tasks efficiently. It helps users create tasks, set priorities, assign deadlines, and monitor progress. The system improves productivity, ensures better time management, and helps individuals or teams complete work in an organized and timely manner.
+A simple command-line Task Management App built using Python.
+
+This project helps users manage daily tasks by allowing them to add, update, delete, and view tasks directly from the terminal.
+
+
+ Features
+ Add multiple tasks at the start
+ Update existing tasks
+ Delete tasks
+ View all current tasks
+ Exit the application anytime
+
+ Project Structure
+
+task-management-app/
+│
+├── app_management.py
+├── README.md
+└── .gitignore
+|__ requirements.txt
+
+ Requirements
+Python 3.x
+ No external libraries required
+ How to Run
+
+ Step 1: Clone the repository
+
+```bash
+git clone https://github.com/bhavesh-gff/task-management-app.git
